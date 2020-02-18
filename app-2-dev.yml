@@ -1,2 +1,3 @@
 app-name: app-2
+env: dev
 message: app-2의 dev환경입니다.
