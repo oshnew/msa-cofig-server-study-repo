@@ -1,0 +1,3 @@
+app-name: app-1
+env: default
+message: app-1의 default환경입니다.
