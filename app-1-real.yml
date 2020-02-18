@@ -1,0 +1,3 @@
+app-name: app-1
+env: real
+message: app-1의${env}환경입니다.
